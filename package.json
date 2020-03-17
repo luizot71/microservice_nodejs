@@ -1,0 +1,36 @@
+{
+  "name": "node-app",
+  "version": "1.0.0",
+  "description": "nodejs project luiz otavio",
+  "main": "hello-world.js",
+  
+  "dependencies": {
+    "bootstrap": "4.4.1"
+  },
+
+  "scripts": {
+    "start": "server.js"
+  },
+
+  "devDependencies": {},
+
+  "keywords": [
+    "nodejs",
+    "npm",
+    "express",
+    "fs",
+    "path",
+    "url",
+    "mongodb",
+    "udp",
+    "crypto"
+  ],
+
+  "author": "luiz otavio",
+  "license": "MIT",
+
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luizot71/microservice_nodejs.git"
+  }
+}
